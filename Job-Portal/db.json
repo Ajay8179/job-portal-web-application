@@ -1,0 +1,252 @@
+{
+  "job-offers": [
+    {
+      "id": "job-123",
+      "title": "Frontend Developer",
+      "company": "TechFusion",
+      "salary": "$100k-$120k",
+      "location": "Remote",
+      "deadline": "2025-06-01T00:00:00Z",
+      "postedDate": "2025-05-01T00:00:00Z",
+      "description": "<p>Build modern UIs with React and TypeScript.</p>",
+      "benefits": "<ul><li>Remote work</li><li>Health insurance</li></ul>",
+      "applicationStatus": {
+        "stages": [
+          "Submitted",
+          "Under Review",
+          "Interview",
+          "Offer"
+        ],
+        "currentStage": "Under Review",
+        "lastUpdated": "2025-05-15T12:00:00Z",
+        "notes": "Your application is being reviewed."
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": "user-1",
+      "saved-jobs": [
+        "job-123"
+      ]
+    }
+  ],
+  "applications": [
+    {
+      "id": "ddcd",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "kuraparthiajay1@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "dwq",
+      "resume": "AJAYKuraparthi_InternshalaResume.pdf"
+    },
+    {
+      "id": "87b4",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "ajay02.cisco@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "g",
+      "resume": "resume ex.pdf (4).pdf"
+    },
+    {
+      "id": "5bc6",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "ajay02.cisco@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "er",
+      "resume": "AJAYKuraparthi_InternshalaResume.pdf"
+    },
+    {
+      "id": "6ca6",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "kuraparthiajay1@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "rf",
+      "resume": "Ajay_Kuraparthi_Resume.docx"
+    },
+    {
+      "id": "a504",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "kuraparthiajay1@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "sgves",
+      "resume": "resume ex.pdf (4).pdf"
+    },
+    {
+      "id": "3cfd",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "ajay02.cisco@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "wdwwq",
+      "resume": "resume ex.pdf (4).pdf"
+    },
+    {
+      "id": "837e",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "ajay02.cisco@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "fbg",
+      "resume": "Ajay-Kuraparthi-resume.pdf"
+    },
+    {
+      "id": "63df",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "ajay02.cisco@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "wd",
+      "resume": "resume ex.pdf (4).pdf"
+    },
+    {
+      "id": "e0b8",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "kuraparthiajay12@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "efe",
+      "resume": "resume ex.pdf (4).pdf"
+    },
+    {
+      "id": "f8d5",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "ajay02.cisco@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "as",
+      "resume": "resume ex.pdf (4).pdf"
+    },
+    {
+      "id": "78e6",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "ajay02.cisco@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "sc",
+      "resume": "resume ex.pdf (4).pdf"
+    },
+    {
+      "id": "de96",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "kuraparthiajay1@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "dd",
+      "resume": "Ajay-Kuraparthi-resume.pdf"
+    },
+    {
+      "id": "3fd6",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "ajay02.cisco@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "wed",
+      "resume": "resume ex.pdf (4).pdf"
+    },
+    {
+      "id": "b7eb",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "ajay02.cisco@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "tg",
+      "resume": "AJAYKuraparthi_InternshalaResume.pdf"
+    },
+    {
+      "id": "4ce4",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "ajay02.cisco@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "ed",
+      "resume": "resume ex.pdf (4).pdf"
+    },
+    {
+      "id": "05a3",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "ajay02.cisco@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "ef",
+      "resume": "Ajay-Kuraparthi-resume.pdf"
+    },
+    {
+      "id": "7ac7",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "ajay02.cisco@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": ",j",
+      "resume": "AJAYKuraparthi_InternshalaResume.pdf"
+    },
+    {
+      "id": "f101",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "ajay02.cisco@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "wwd",
+      "resume": "AJAYKuraparthi_InternshalaResume.pdf"
+    },
+    {
+      "id": "18f0",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "ajay02.cisco@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "cv ",
+      "resume": "Ajay-Kuraparthi-resume.pdf"
+    },
+    {
+      "id": "1a0e",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "ajay02.cisco@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "xx ",
+      "resume": "resume ex.pdf (4).pdf"
+    },
+    {
+      "id": "984c",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "kuraparthiajay@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "dfv",
+      "resume": "AJAYKuraparthi_InternshalaResume.pdf"
+    },
+    {
+      "id": "6b9c",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "ajay02.cisco@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "xzax",
+      "resume": "ML_Intern_Experience.docx"
+    },
+    {
+      "id": "c556",
+      "jobId": "job-123",
+      "fullName": "Ajay Kuraparthi",
+      "email": "ajay02.cisco@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "frewr",
+      "resume": "Ajay_Kuraparthi_Resume.docx"
+    },
+    {
+      "id": "15b4",
+      "jobId": "job-123",
+      "fullName": "kumar",
+      "email": "kuraparthiajay123@gmail.com",
+      "phone": "08179709428",
+      "coverLetter": "hi",
+      "resume": "resume ex.pdf (2).pdf"
+    }
+  ]
+}
