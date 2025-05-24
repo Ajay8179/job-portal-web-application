@@ -1,4 +1,4 @@
-# 💼 JobPortal - Modern Job Board Application 🚀
+# 💼 JobPortal - Modern Job Portal Application 🚀
 
 <!-- Add a screenshot if available -->
 
