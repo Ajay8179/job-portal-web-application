@@ -141,4 +141,4 @@ Firebase Team 🔥
 
 Tailwind CSS Authors 🎨
 
-All Contributors 💖
+
