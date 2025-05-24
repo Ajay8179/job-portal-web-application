@@ -129,7 +129,7 @@ Push git push origin feature/awesome
 Open a Pull Request
 
 📜 License
-MIT © 2023 YourName
+MIT © 2025
 License: MIT
 
 🙌 Credits
